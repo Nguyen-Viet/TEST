@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author VietN
+ *
+ */
+module jfxgame {
+}
